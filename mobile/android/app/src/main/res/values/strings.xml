@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instant Translation</string>
+    <string name="app_description">Traductor Instantáneo en Tiempo Real</string>
+    <string name="button_translate">Traducir Ahora</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="label_from">De:</string>
+    <string name="label_to">Para:</string>
+    <string name="label_input">Ingresa texto o URL</string>
+    <string name="label_result">Resultado Traducido</string>
+    <string name="error_empty_input">Por favor ingresa texto</string>
+    <string name="error_network">Error de conexión</string>
+    <string name="error_translation">Error en la traducción</string>
+    <string name="success_translation">Traducción completada</string>
+</resources>
